@@ -1,0 +1,16 @@
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\bin\Release\netcoreapp3.1\Bakiye Sistemi.exe
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\bin\Release\netcoreapp3.1\Bakiye Sistemi.deps.json
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\bin\Release\netcoreapp3.1\Bakiye Sistemi.runtimeconfig.json
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\bin\Release\netcoreapp3.1\Bakiye Sistemi.runtimeconfig.dev.json
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\bin\Release\netcoreapp3.1\Bakiye Sistemi.dll
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\bin\Release\netcoreapp3.1\Bakiye Sistemi.pdb
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye Sistemi.csproj.AssemblyReference.cache
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye_Sistemi.Form1.resources
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye Sistemi.csproj.GenerateResource.cache
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye Sistemi.AssemblyInfoInputs.cache
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye Sistemi.AssemblyInfo.cs
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye Sistemi.dll
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye Sistemi.pdb
+C:\Users\ihsan\Desktop\Bakiye Sistemi\Bakiye Sistemi\obj\Release\netcoreapp3.1\Bakiye Sistemi.genruntimeconfig.cache
